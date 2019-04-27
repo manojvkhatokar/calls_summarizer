@@ -1,0 +1,2 @@
+# calls_summarizer
+This android application runs in the background and uses Google's Speech-to-text api and Recurrent Neural Networks in the backend to analyze and summarize business calls into a file. The business calls can be between the auditor and the auditee of two companies/business organization respectively.This not only saves time for the Auditor in generating a report but also has multiple uses for the general user.
